@@ -5,6 +5,7 @@ The data was taken from one of the airbnb challenges "Airbnb User Pathway Challe
 
 ## Goal
 The goal is to:
+
 1. Show informative graphs for search to booking request conversion
 2. Show informative graphs for devices used
 3. Show informative graphs for time spent on app vs website sessions
